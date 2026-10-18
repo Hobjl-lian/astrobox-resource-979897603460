@@ -5,11 +5,11 @@
     "name": "EdgeUI",
     "description": "仿照微软的界面风格，侧边栏跳转项支持自定义，壁纸均为搭配好的方案，无需自行配置。",
     "preview": [
-      "media/cover.png",
+      "media/cover.jpg",
       "media/preview.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/cover.png",
+    "cover": "media/cover.jpg",
     "author": [
       {
         "name": "Hobjl",
